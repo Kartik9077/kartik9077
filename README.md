@@ -1,6 +1,6 @@
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Virtual AI Assistant**
+- 🔭 I’m currently working on **Genie AI **
 
 - 👯 I’m looking to collaborate on **mental cure**
 
