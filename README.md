@@ -56,7 +56,7 @@
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=github,vscode,netlify,vercel&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel&theme=dark"></td>
 </tr>
 </table>
 <br>
