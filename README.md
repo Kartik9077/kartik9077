@@ -53,6 +53,8 @@
 	<td><strong>Developer Tools</strong></td>
 	<td><img height=40 src = "https://skillicons.dev/icons?i=github,vscode&theme=dark"></td>
 </tr>
+</table>
+<br>
 
 ---
 
