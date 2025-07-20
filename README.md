@@ -41,7 +41,7 @@
 <table align="center">
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=js&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=c++,c,python&theme=dark"></td>
 </tr>
 
 <tr>
@@ -49,8 +49,8 @@
 	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
 </tr>
 <tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=html,css,js,react" ></td>
+	<td><strong>Backend Development</strong></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=node,js,express.js,mongodb,mysql" ></td>
 </tr>
 
 
