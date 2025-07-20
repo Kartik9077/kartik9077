@@ -41,7 +41,7 @@
 <table align="center">
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=c++,c,python&theme=dark"></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=cpp,c,python&theme=dark"></td>
 </tr>
 
 <tr>
