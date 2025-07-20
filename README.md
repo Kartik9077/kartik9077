@@ -50,7 +50,7 @@
 </tr>
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=node,js,express.js,mongodb,mysql" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=nodeJS,ExpressJS,mongodb,mysql" ></td>
 </tr>
 
 
