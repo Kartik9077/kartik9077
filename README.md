@@ -94,7 +94,6 @@ Feel free to explore my repositories and connect with me. I'm always open to col
 <div align="center" style="display: flex; align-items: center; justify-content: center; margin-top: 0; padding-top: 0;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=kartik9077&theme=jolly&hide_border=true" style="z-index: 2; margin-top: 0; padding-top: 0;"/>
 </div>
-<img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" width="100%">
 
 <!-- Top Languages Summary -->
 <div align="center">
