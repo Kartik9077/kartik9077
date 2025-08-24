@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/kartik-sharma-67401b326/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram/profile/onenonly_kartik" target="blank">
+  <a href="https://www.instagram.com/onenonly_kartik?igsh=MW0zM3U1ajV6M2Jzbw==" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
