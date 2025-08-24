@@ -27,29 +27,29 @@
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
-  <a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/kartik-sharma-67401b326/?profileId=ACoAAFI6fvgB3SwGpldJCgDFBO6UuuWEeNFyg_8)" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratham lashkari" height="30" width="40" />
+  <a href="[https://www.linkedin.com/in//](https://www.linkedin.com/in/kartik-sharma-67401b326" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram/onenonly_kartik" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prahthamlashkari" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik" height="30" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
    <a href="https://codolio.com/profile/kartik9077" target="blank">
-    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="pratham" height="50" width="50" />
+    <img align="center" src="https://media.licdn.com/dms/image/v2/D4D22AQGv29nE_F_HRg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724164365236?e=2147483647&v=beta&t=-AwUx7FTMbXcypoZrZ0SmmEo6so1gb0R1UhiuZ224qI" alt="kartik" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   
    <a href="https://www.codechef.com/users/sharma9077" target="blank">
-    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="pratham212" height="50" width="50" />
+    <img align="center" src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="kartik" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
  
-  <a href="[https://www.naukri.com/code360/profile/](https://www.naukri.com/code360/profile/kartikop)" target="blank">
-    <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="pratham lashkari" height="50" width="50" />
+  <a href="https://www.naukri.com/code360/profile/kartikop" target="blank">
+    <img align="center" src="https://avatars.githubusercontent.com/u/88321750?v=4" alt="kartik" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/kartik9077/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prathamlashkari841" height="50" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kartik" height="50" width="50" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/kartik9077" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prathamlashkari" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kartik" height="30" width="40" />
   </a>
 </p>
 
