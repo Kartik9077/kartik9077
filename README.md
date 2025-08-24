@@ -1,4 +1,4 @@
-<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm Kartik</h1> 
+<h1 align="center"> Hi!!<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="40"width="40" />I'm Kartik Sharma</h1> 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=SoftWare+Development+Engineer+1;Competitive+Programmer;Passionate+About+Coding" alt="Typing SVG" />
 </h2>
